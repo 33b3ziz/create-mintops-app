@@ -1,6 +1,6 @@
 {
   "name": "create-mintops-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A React Starter on top of Vite build to fit Us",
   "bin": "./bin/cli.cjs",
   "type": "module",
