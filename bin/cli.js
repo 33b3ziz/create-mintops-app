@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { process } from "process";
+import process from "process";
 import { execSync } from "child_process";
 
 const runCommand = (command) => {
